@@ -30,7 +30,7 @@ This script is highly compatible with VS Code. Here's how you can use it:
 
 Boom! Your dev environment is not just set up, but it's also ready for remote access and development via VS Code!
 
-@TODO Write a blot post on piraffe.com about this stuff and how I went all-remote in my dev-setup without paying 45-50$ / mo. for GitHub Codespaces / Gitpod / IDX etc.
+@TODO **Write a blog-post on piraffe.com about this stuff** and how I went all-remote in my dev-setup without paying 45-50$ / mo. for GitHub Codespaces / Gitpod / IDX etc.
 
 ## Editing Variables 🔧
 
